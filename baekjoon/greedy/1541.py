@@ -1,4 +1,4 @@
-# 1541 - 잃어버린 괄호 (20240101)
+# 1541 - 잃어버린 괄호 (20240101) ok
 from collections import deque
 
 inputValue = input()

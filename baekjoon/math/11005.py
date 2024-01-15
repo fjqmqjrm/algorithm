@@ -1,4 +1,4 @@
-# 11005 - 진법 변환2 (ok)
+# 11005 - 진법 변환2 (20240115) ok
 # 10진법 수 N을 B진법 수로 변환
 N, B = map(int,input().split())
 nst = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ'

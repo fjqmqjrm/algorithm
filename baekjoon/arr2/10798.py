@@ -1,4 +1,4 @@
-# 10798 - 세로읽기 (ok)
+# 10798 - 세로읽기 (20240115) ok
 li = [["" for j in range(15)]for i in range(5)]
 
 for _ in range (5):

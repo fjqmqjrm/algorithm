@@ -1,4 +1,4 @@
-# 14888 - 연산자 끼워넣기
+# 14888 - 연산자 끼워넣기 (ok)
 import sys
 from copy import copy
 input = sys.stdin.readline
